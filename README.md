@@ -17,4 +17,4 @@ Os arquivos aqui são licenciados sob
 exceto aqueles copiados de outras origens, que podem possuir licenças próprias.
 
 O arquivo de código da lincença também encontra-se
-[neste repositório](http://cacilhas.info/misc/COPYING.md).
+[neste repositório](http://cacilhas.info/img/COPYING.md).
