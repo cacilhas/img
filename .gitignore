@@ -1,0 +1,17 @@
+*.swo
+*.swp
+*.komodoproject
+*.map
+*~
+
+.DS_Store
+.env
+.idea
+.vscode
+_build.js
+
+/misc
+/node_modules
+/package-lock.json
+/tmp
+/vortaro
