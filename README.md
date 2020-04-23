@@ -1,20 +1,19 @@
 # ℭacilhας.INFO `/img`
 
-Imagens exibidas em *blogs* e outras páginas em
+Images shown in blogs and other pages in
 [ℭacilhας.INFO](http://cacilhas.info/).
 
 ## Blogs
 
-Os *blogs* são:
+The blogs are:
 
-1. [Reflexões de ℳontegasppα e Giulia C.](http://cacilhas.info/montegasppa/)
-1. [Kodumaro](http://cacilhas.info/kodumaro/)
+1. [ℳontegasppα and Giulia C.’s Thoughts](http://montegasppa.cacilhas.info/)
+1. [Kodumaro](http://kodumaro.cacilhas.info/)
 
-## Licença
+## License
 
-Os arquivos aqui são licenciados sob
-[Creative Commons Atribuição 4.0 Não Adaptada](http://cacilhas.info/copying.html),
-exceto aqueles copiados de outras origens, que podem possuir licenças próprias.
+All files are licensed under
+[Creative Commons Attribution 4.0 International](http://cacilhas.info/copying.html),
+but those copied from other sources, under their own licenses.
 
-O arquivo de código da lincença também encontra-se
-[neste repositório](http://cacilhas.info/img/COPYING.md).
+The copying file is [here](http://cacilhas.info/img/COPYING.md).
